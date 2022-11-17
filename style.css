@@ -1,0 +1,22 @@
+.country{
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+body {
+    background-image: url("/assets/qatarBackground.jpeg");
+    background-position: center center;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-size:  cover;
+    height: 100vh;
+   
+  }
+
+  body{
+    color: #f0ffff;
+  }
+
+  .btn{
+    color: #f0ffff;
+  }
